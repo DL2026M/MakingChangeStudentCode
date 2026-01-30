@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf08351e-8001-407c-880c-49b47a0a4156" name="Changes" comment="Part of V1 completed">
+    <list default="true" id="bf08351e-8001-407c-880c-49b47a0a4156" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WORK_LOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/WORK_LOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakingChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakingChange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -105,6 +106,10 @@
       <workItem from="1769479843653" duration="533000" />
       <workItem from="1769480384026" duration="1137000" />
       <workItem from="1769481752665" duration="234000" />
+      <workItem from="1769482025795" duration="18000" />
+      <workItem from="1769482076382" duration="2000" />
+      <workItem from="1769641040941" duration="479000" />
+      <workItem from="1769806452136" duration="2867000" />
     </task>
     <task id="LOCAL-00001" summary="Part of V1 completed">
       <option name="closed" value="true" />
@@ -114,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769477781985</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V1 finished!">
+      <option name="closed" value="true" />
+      <created>1769482033352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769482033352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Part of V1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part of V1 completed" />
+    <MESSAGE value="V1 finished!" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1 finished!" />
   </component>
 </project>
